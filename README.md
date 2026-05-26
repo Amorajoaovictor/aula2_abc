@@ -10,8 +10,8 @@ Acesse a pasta de exercicios:
 
 Exercicios disponiveis:
 
-- [Problema: boletim do aluno](./exercicios/problema_boletim_aluno.md)
-- [Problema: permissao para Torneio Ninja](./exercicios/problema_maioridade.md)
+- [Problema1: boletim do aluno](./exercicios/problema_boletim_aluno.md)
+- [Problema2: permissao para Torneio Ninja](./exercicios/problema_maioridade.md)
 
 ## O que e o ABC da programacao?
 
