@@ -128,7 +128,6 @@ if idade >= 18:
     resultado = "Pode participar do Torneio Ninja"
 else:
     resultado = "Precisa continuar treinando"
-
 print("\nInscricao no Torneio Ninja")
 print("Personagem:", nome)
 print("Idade:", idade)
@@ -148,3 +147,14 @@ Personagem: Akira
 Idade: 16
 Resultado: Precisa continuar treinando
 ```
+![Gif do torneio ninja](https://i.pinimg.com/originals/14/ba/b7/14bab778a9eb3702b08cf010f8ff908d.gif)
+```text
+Digite o nome do personagem: Naruto
+Digite a idade do personagem: 18
+
+Inscricao no Torneio Ninja
+Personagem: Akira
+Idade: 18
+Resultado: Precisa continuar treinando
+```
+![Gif do torneio ninja](https://i.pinimg.com/originals/4a/9b/68/4a9b68a4e588dd91617df6e736e428ca.gif)
