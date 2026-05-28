@@ -171,8 +171,8 @@ Setlist do show
 4 - Revolta no Amplificador
 
 Show encerrado com guitarra pesada e bateria acelerada.
-```
 
+![muppets mto foda](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMjdrcTk3NXFpejBrb2ZpM3locTIyeWg4YXdkenh3NjJkOHpja2tycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L2NvcypZtTksM/200w.gif)
 ---
 
 ## Desafio extra
@@ -180,4 +180,4 @@ Show encerrado com guitarra pesada e bateria acelerada.
 Depois que o exemplo funcionar, adicione mais musicas na lista e veja se o `for` mostra tudo automaticamente.
 
 
-![rock](https://i.makeagif.com/media/2-11-2016/ohzHG8.gif)
+![mamaaaaa](https://i.makeagif.com/media/2-11-2016/ohzHG8.gif)
