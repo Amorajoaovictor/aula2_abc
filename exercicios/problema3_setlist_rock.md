@@ -6,13 +6,14 @@ Crie um programa que monte e exiba o setlist de uma banda de rock usando `for`.
 
 A ideia e simular uma apresentacao inspirada na energia de bandas como **System of a Down**: som pesado, musicas rapidas e ordem de show bem definida.
 
+![chop-suey](https://media.tenor.com/RcWFW0PJS4sAAAAM/wake-up-system-of-a-down.gif)
 ---
 
 ## Historia
 
-Uma banda vai tocar em um festival.
+Vai acontecer um festival de rock.
 
-Antes do show comecar, o tecnico precisa imprimir a ordem das musicas que serao tocadas.
+Antes do show comecar, o tecnico precisa imprimir a ordem das musicas que serao tocadas por banda.
 
 Para nao escrever varios `print()` repetidos, o programa deve guardar as musicas em uma lista e usar um `for` para exibir cada uma.
 
@@ -20,7 +21,7 @@ Para nao escrever varios `print()` repetidos, o programa deve guardar as musicas
 
 ## Entrada
 
-Neste exercicio, o programa pode usar uma lista pronta com nomes ficticios de musicas.
+Neste exercicio, o programa pode usar uma lista pronta com nomes ficticios (ou não)  de musicas 
 
 ```text
 lista de musicas da banda
@@ -33,7 +34,7 @@ musicas = [
     "Grito da Cidade",
     "Caos no Palco",
     "Radio Quebrado",
-    "Revolta no Amplificador"
+    "Revolta"
 ]
 ```
 
@@ -54,7 +55,7 @@ Tambem deve mostrar a posicao da musica no show.
 1 - Grito da Cidade
 2 - Caos no Palco
 3 - Radio Quebrado
-4 - Revolta no Amplificador
+4 - Revolta
 ```
 
 ---
@@ -142,7 +143,7 @@ musicas = [
     "Grito da Cidade",
     "Caos no Palco",
     "Radio Quebrado",
-    "Revolta no Amplificador"
+    "Revolta"
 ]
 
 print("Banda:", banda)
@@ -177,3 +178,6 @@ Show encerrado com guitarra pesada e bateria acelerada.
 ## Desafio extra
 
 Depois que o exemplo funcionar, adicione mais musicas na lista e veja se o `for` mostra tudo automaticamente.
+
+
+![rock](https://i.makeagif.com/media/2-11-2016/ohzHG8.gif)
